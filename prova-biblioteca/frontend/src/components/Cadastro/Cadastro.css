@@ -1,0 +1,33 @@
+.cadastro {
+  font-size: 28px;
+  text-align: center;
+  align-items: center;
+}
+
+.form {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+
+.container-master {
+  width: 80%;
+  margin: auto;
+}
+
+input {
+  margin: 5px;
+  align-items: center;
+}
+
+.submit {
+  width: 50%;
+  margin: 25px auto auto auto;
+}
+
+.botao {
+  margin: 50px auto;
+  width: 50%;
+}
+
